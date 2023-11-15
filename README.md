@@ -5,6 +5,11 @@ This repository contains code for transfer learning in Natural Language Processi
 1. Implement and pretrain a language model with a transformer architecture.
 2. Use the pretrained model for transfer learning in a sentiment analysis task, where the goal is to classify book reviews into positive and negative categories.
 3. Compare the performance of the pretrained model with a model trained from scratch.
+<p align="center">
+  <img src="https://github.com/RayaneKimo/Transfer-Learning/assets/85368764/eac5cc02-ab53-4c6f-8be5-c2c824187015" alt="2phases learning">
+</p>
+
+
 
 ## Overview
 
